@@ -57,7 +57,7 @@ html {
 body {
   font-family: "Vazirmatn", sans-serif;
   font-feature-settings: "ss01";
-  background: red;
+  background: var(--clr-white);
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
