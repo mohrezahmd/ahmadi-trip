@@ -33,6 +33,3 @@ Clone the repository:
 <<<<<<< HEAD
 git clone https://github.com/mohrezahmd/ahmadi-trip.git
 ```
-
-=======
-git clone https://github.com/your-username/your-repo-name.git
